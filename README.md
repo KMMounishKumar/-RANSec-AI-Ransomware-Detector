@@ -33,4 +33,7 @@ RANSec is an intelligent, real-time ransomware detection system designed to moni
 ├── dashboard.py           # Flask app for live updates
 ├── simulate_ransomware.py # Fake attack to test the system
 ├── run_all.py             # Launches all components
+└── main.py                # Main launcher script
+└── ransomware.py          # Ransomware simulator for testing detection
 └── README.md              # This file
+
